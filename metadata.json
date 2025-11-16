@@ -1,0 +1,5 @@
+{
+  "name": "Audience Query Management System",
+  "description": "A unified system to centralize, categorize, prioritize, and track all incoming audience queries from various channels. Features AI-powered analysis and response generation with Gemini.",
+  "requestFramePermissions": []
+}
